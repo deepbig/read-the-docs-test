@@ -1,0 +1,20 @@
+site_name: SILCROAD Soft Product Docs
+nav:
+  - Home: index.md
+  - SILCROAD Admin: admin.md
+theme:
+  name: material
+  # logo: img/favicon.ico
+  icon:
+    logo: material/library
+  favicon: img/favicon.ico
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
