@@ -3,7 +3,8 @@ nav:
   - Home: index.md
   - SILCROAD Admin: admin.md
 theme:
-  name: material
+  # name: material
+  name: readthedocs
   # logo: img/favicon.ico
   icon:
     logo: material/library
